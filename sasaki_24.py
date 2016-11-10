@@ -15,3 +15,5 @@ def get_text_wiki(title):
             artcile_json = f.readline()
 
 article = get_text_wiki(u"イギリス")
+
+
